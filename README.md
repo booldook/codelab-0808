@@ -8,3 +8,5 @@
 - git remote add origin https://github.com/booldook/codelab-0808.git
 
 바뀐내용
+내용을 바꾸고.
+한시간 작업.
